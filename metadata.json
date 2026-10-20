@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Strike: Survival",
+  "description": "3D tactical third-person shooter action game for Android and Web. Features procedural combat arenas, mission objectives, tactical AI enemies, mobile virtual joystick controls, and native Kotlin/OpenGL Android project exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
